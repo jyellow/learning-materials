@@ -1,0 +1,4 @@
+matplotlib==3.3.2
+numpy==1.21.6
+scikit_learn==0.22.2.post1
+tensorflow==2.8.0
