@@ -1,0 +1,11 @@
+.idea
+*.DS_Store
+*.pt
+*.gz
+*.tgz
+*-ubyte
+*.pth
+*.npz
+
+__pycache__
+logs
